@@ -10,10 +10,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2xS09suHDIH08sDa3WPQEqP71Na" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,12 +24,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "javascript.nodejs.core.library.configured.version": "20.19.0",
     "javascript.nodejs.core.library.typings.version": "20.17.50",
+    "last_opened_file_path": "/Users/maxsteshkin/WebstormProjects/Harmful/demo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "/opt/homebrew/bin/node",
     "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "/Users/maxsteshkin/WebstormProjects/Harmful/demo/node_modules/prettier",
+    "ts.external.directory.path": "/Users/maxsteshkin/WebstormProjects/Harmful/demo/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -48,6 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1747916018815</updated>
       <workItem from="1747916020480" duration="619000" />
+      <workItem from="1747921726415" duration="271000" />
     </task>
     <servers />
   </component>
